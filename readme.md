@@ -1,4 +1,5 @@
 ## Fine-Tune BERT for Text Classification with tensorflow
+This is a guided project with Coursera Project Network
 In this [project](https://www.coursera.org/projects/fine-tune-bert-tensorflow/), you will learn how to fine-tune a BERT model for text classification using TensorFlow and TF-Hub.
 
 ![alt text](https://drive.google.com/uc?id=1fnJTeJs5HUpz7nix-F9E6EZdgUflqyEu)
